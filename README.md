@@ -18,6 +18,7 @@ Localizados em `mini_projetos/`:
 - `calculadora.ipynb` - Calculadora simples
 - `caixa_eletronico.ipynb` - Simulador de caixa eletrônico
 - `analisador_de_texto.ipynb` - Analisador de texto
+- `quiz_interativo.ipynb` - Quiz interativo (listas, dicionários, funções, loops, if/else — com comentários)
 
 ### 💻 Práticas
 Localizados em `praticas/`:
