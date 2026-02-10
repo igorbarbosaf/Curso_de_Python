@@ -24,7 +24,8 @@ Localizados em `mini_projetos/`:
 Localizados em `praticas/`:
 - `prat1_novo.ipynb` - Prática 1
 - `prat2_intro.ipynb` - Prática 2 - Introdução
-- `prat3.ipynb` - Prática 3
+- `prat3_condicionais_loops.ipynb` - Prática 3 - Condicionais e loops (if, for, while)
+- `prat4_listas_dicionarios.ipynb` - Prática 4 - Listas e dicionários
 
 ## 📝 Notas
 - Todos os arquivos estão organizados por categoria
@@ -35,4 +36,6 @@ Localizados em `praticas/`:
 1. Abra os notebooks Jupyter na ordem sugerida (começando por `Primeiros_Passos.ipynb`)
 2. Execute as células para aprender os conceitos
 3. Pratique com os exercícios nas pastas `praticas/` e `mini_projetos/`
+
+
 
